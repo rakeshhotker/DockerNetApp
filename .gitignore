@@ -1,0 +1,53 @@
+# .NET build artifacts
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+.vscode/
+
+# Configuration files
+appsettings*.json
+
+# Secrets (make sure you handle secrets securely)
+secrets.json
+
+# Docker files
+Dockerfile.*
+!Dockerfile
+.dockerignore
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Git files
+.idea/
+*.iml
+
+# Node.js dependencies (if using Node.js for frontend or additional tooling)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Generated Swagger files
+swagger-ui/
+swagger-output/
+
+# Publish output
+publish/
+wwwroot/

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DockerNetApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fe20a7d6e05b2d707a73d72fba0d97e981781f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DockerNetApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DockerNetApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
