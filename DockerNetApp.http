@@ -1,6 +1,0 @@
-@DockerNetApp_HostAddress = http://localhost:5159
-
-GET {{DockerNetApp_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
